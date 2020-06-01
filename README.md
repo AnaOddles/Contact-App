@@ -1,5 +1,6 @@
 # Contact-App
 Android app that manages business and personal contacts, allows functionality for deleting, edited, and searching for contacts.
+Video: https://www.youtube.com/watch?v=geJiDKk0UFE&feature=youtu.be
 
 General Technical Approach: Contact Management Methods
 This Milestone focused on implementing User Stories Part 2: Utilize communication features of Android 
